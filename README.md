@@ -35,7 +35,7 @@ have any, take a deep breath and lets get cracking. You can do this 🚀!
 
 ### Task 1
 
-Use git to clone the repository from [GitHub `Enteee/coding-interview`](https://github.com/Enteee/coding-interview)
+Use git to clone the repository from [GitHub `CodeWhispeBaer/coding-interview`](https://github.com/CodeWhispeBaer/coding-interview)
 
 ### Task 2
 
